@@ -122,3 +122,13 @@ body ul li a{
         max-width: 400px;
     }
 }
+
+@media (max-width: 767px) {
+    .banner-topo{
+        height: 900px;
+        padding-top: 40px;
+    }
+    .space{
+        padding: 30px 0px 20px;
+    }
+}
